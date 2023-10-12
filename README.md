@@ -41,7 +41,7 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (3)-1.png>)
+![Alt text](<Screenshot (3).png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
