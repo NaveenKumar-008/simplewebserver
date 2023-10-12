@@ -41,7 +41,8 @@ Testing the webserver.
 ```
 
 ## OUTPUT:
-!(<Screenshot (3).png>)
+![Screenshot (3)](https://github.com/NaveenKumar-008/simplewebserver/assets/128135244/c7436430-b93f-43a7-8ace-7f65321137e6)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
